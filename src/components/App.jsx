@@ -30,8 +30,6 @@ export const App = () => {
         title="Upload stats"
         stats={data} />
     
-    
-      
       <FriendList
         friends={friends} />
     </div>
