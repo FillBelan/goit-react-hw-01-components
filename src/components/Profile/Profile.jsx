@@ -10,7 +10,7 @@ import {
   StatsStyle,
   StatsList,
   LabelStyle,
-QuantityStyle ,
+  QuantityStyle,
 } from './Profile.styled';
 
 export const Profile = ({ username, tag, location, avatar, stats }) => {
