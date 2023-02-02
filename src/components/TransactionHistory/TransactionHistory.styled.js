@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const TransactionHistoryStyle = styled.table`
-  border: 1px solid white;
+  border: 1px solid grey;
   width: 800px;
   box-shadow: 6px 6px 10px 0px rgba(135, 206, 250, 0.2);
 `;
